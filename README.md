@@ -1,0 +1,2 @@
+# Walgreen_Financial_Analysis
+lay out various important aspects of Walgreens’ current financial position and financial statements (including insight on revenue recognition, significant assets, and key ratios),  provide insight to potentially investment-deterring risk factors, and showcase a five years growth forecast for the company. In addition, we estimated stock share price based on the five years forecasts and current performance of the stock. 
