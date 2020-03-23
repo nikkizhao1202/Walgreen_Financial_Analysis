@@ -1,4 +1,5 @@
 # Walgreens Financial Analysis
+* contributor: Yongyi Zhao
 
 ## Executive Summary
 <p>
